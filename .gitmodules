@@ -1,0 +1,3 @@
+[submodule "network-test"]
+	path = network-test
+	url = https://github.com/kasparkasper/network-test.git
